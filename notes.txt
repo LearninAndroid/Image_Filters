@@ -1,0 +1,9 @@
+The following process was followed during the development of this application. 
+
+Lesson 1:
+a). Adding gradle dependencies for recycler view, design and androidhive filters
+
+b). Initialize the application, enable kotlin support,.
+Adding styles and color pallete schemes.
+
+c). Defining the styles used in the application.
